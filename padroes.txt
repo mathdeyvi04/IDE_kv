@@ -1,0 +1,8 @@
+Screen=Comprimento=600
+Screen=Altura=400
+Screen=ModoEscuro=True
+Texto=Apagador=True
+Texto=Identador=4
+Cor=MD=red
+Cor=:=#59daeb
+Cor='=green
